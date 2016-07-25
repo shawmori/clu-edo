@@ -1,0 +1,9 @@
+package game;
+
+import java.util.List;
+
+
+public class Hand {
+private Player player;
+private List<Card> cards;
+}
